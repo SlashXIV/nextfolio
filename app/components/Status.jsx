@@ -88,6 +88,12 @@ const SIDE_PROJECTS = [
         description: "Personal project, website where you can note your readings {ExpressJS, MongoDB, Vue3JS}.",
         url : "not available"
     },
+    {
+        Logo : Code,
+        title: "Portfolio",
+        description: "Personal project, website where you can find my resume {NextJS}.",
+        url : "/"
+    }
 
 ]
 
